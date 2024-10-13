@@ -1,4 +1,4 @@
-# WBS_Eniac-Magist_SQL_Business Analysis
+# Eniac-Magist_SQL_Business Analysis
 
 ## Project Overview:
 
