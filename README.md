@@ -1,10 +1,10 @@
 # Eniac-Magist_SQL_Business Analysis
 
-## Project Overview:
+## Project Overview
 
 As a Data Analyst at Eniac, a growing online marketplace specializing in Apple-compatible accessories, I analyzed e-commerce data to support a critical business decision regarding the company's potential expansion into the Brazilian market. To inform this decision, I explored data from Magist, a Brazilian Software as a Service company that provides a centralized order management system and after-sales services.
 
-## Project Objective:
+## Project Objective
 
 The goal was to utilize SQL and Tableau to assess the feasibility of partnering with Magist. Eniac had two main concerns:
 
@@ -18,7 +18,7 @@ The goal was to utilize SQL and Tableau to assess the feasibility of partnering 
 3. What is the average delivery time for orders, and how does this compare to customer expectations?
 4. Are there any patterns in delayed orders that could affect customer satisfaction?
 
-## Key Responsibilities:
+## Key Responsibilities
 
 - Conducted data exploration using SQL to answer key business questions about product categories, sales performance, and order fulfillment.
 - Developed interactive Tableau dashboards to visually present my findings to the board of directors, enabling informed decision-making.
