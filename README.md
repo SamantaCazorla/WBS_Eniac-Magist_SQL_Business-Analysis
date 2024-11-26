@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-As a Data Analyst at Eniac, a fast-growing e-commerce platform specializing in Apple-compatible accessories, I conducted a detailed data analysis to evaluate the company’s expansion into the Brazilian market. This project focuses on assessing a potential partnership with **Magist**, a Brazilian SaaS provider specializing in centralized order management and after-sales services.
-
-The collaboration aims to enhance supply chain efficiency, test the Brazilian market, and build brand awareness while addressing Eniac’s concerns about delivery performance and compatibility with high-end tech products.
+As a **Data Analyst at Eniac**, I conducted this project to evaluate a potential partnership with **Magist**, a Brazilian SaaS company specializing in order management solutions. Eniac, an e-commerce platform focusing on Apple-compatible accessories, is exploring expansion into the Brazilian market. This analysis focuses on assessing market compatibility, delivery performance, and sales trends to guide Eniac's strategic decision-making.
 
 
 ## Project Objective
@@ -50,7 +48,7 @@ The analysis uses data in CSV format provided by WBSCoding School, comprising th
 - **SQL** Data exploration and analysis (MySQL Workbench)
 - **Tableau**: Data visualization and interactive dashboards
 - **Google Slides**: Presentation of findings
-- 
+
 
 ## Key Analysis Highlights
 
