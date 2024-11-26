@@ -53,7 +53,7 @@ The analysis uses data in CSV format provided by WBSCoding School, comprising th
 
 ## Key Analysis Highlights
 
-- **Product Alignment**: Tech products make up ~11% of Magist’s sales, with limited high-end options compared to Eniac’s portfolio.
+- **Product Alignment**: Tech products make up ~ 11 % of Magist’s sales, with limited high-end options compared to Eniac’s portfolio.
 - **Seller Insights**: ~ 15.4 % of Magist’s sellers focus on tech products.
 - **Geolocation Trends**: São Paulo accounts for 60 % of total sales, making it a strong candidate for market entry.
 - **Delivery Performance**:
